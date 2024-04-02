@@ -1,13 +1,13 @@
-<h1>Bem Vindo! 🚀</h1>
+# <?= Bem Vindo! 🚀?>
 
 
-Olá! Meu nome é Bruno Trindade, um desenvolvedor entusiasta apaixonado por programação, em especial **PHP**. Me formei em Análise e Desenvolvimento de Sistemas em 2018 e desde então tenho buscado constantemente aprimorar minhas habilidades e conhecimentos na área de tecnologia. Embora não ter experiência comprovada, sempre me 
+Olá! Meu nome é **Bruno Trindade**, um programador / desenvolvedor entusiasta apaixonado por programação, em especial **PHP**. Me formei em Análise e Desenvolvimento de Sistemas em 2018 e desde então tenho buscado constantemente aprimorar minhas habilidades e conhecimentos na área de tecnologia.
 
 ![GIF](link_para_seu_gif.gif)
 
 ## Trajetória Profissional 💼
 
-Embora tenha começado minha carreira fora da área de TI, sempre fui fascinado pela tecnologia e sua capacidade de transformar o mundo ao nosso redor. Após a formação, mantive atualizado e aprendendo novos conceitos de programação, usando sempre como base a **linguagem PHP**.
+Embora tenha começado minha carreira fora da área de TI, sempre fui fascinado pela tecnologia e sua capacidade de transformar o mundo ao nosso redor. Após a formação, mantive atualizado e sempre aprendendo novos conceitos de programação, usando sempre como base a **linguagem PHP**.
 _E estou bem animado e ansioso agora que posso exercer na area!_
 
 ## Principais Habilidades 🛠️
