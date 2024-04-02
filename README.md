@@ -1,4 +1,5 @@
-# <?= Bem Vindo! ?> 🚀
+<h1>Bem Vindo! 🚀</h1>
+
 
 Olá! Meu nome é Bruno Trindade, um desenvolvedor entusiasta apaixonado por programação, em especial **PHP**. Me formei em Análise e Desenvolvimento de Sistemas em 2018 e desde então tenho buscado constantemente aprimorar minhas habilidades e conhecimentos na área de tecnologia. Embora não ter experiência comprovada, sempre me 
 
