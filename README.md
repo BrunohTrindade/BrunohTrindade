@@ -18,7 +18,7 @@ Olá! Meu nome é **Bruno Trindade**, um programador / desenvolvedor entusiasta 
 - [Catalogo Online 📦🛒](https://github.com/BrunohTrindade/Catalogo-online): 
 O Catálogo Online é uma plataforma de e-commerce completa, projetada para fornecer uma experiência de compra eficiente e conveniente para os usuários.
 
-Desenvolvido com PHP nativo, JavaScript, MySQL, arquitetura MVC e sistema de rotas.
+**Desenvolvido com PHP nativo, JavaScript, MySQL, arquitetura MVC e sistema de rotas.**
 
 O catálogo oferece uma ampla gama de recursos e funcionalidades, incluindo:
     - Cadastro de produtos e categorias para organização eficaz.
