@@ -5,11 +5,6 @@ Olá! Meu nome é **Bruno Trindade**, um programador / desenvolvedor entusiasta 
 
 ![GIF](link_para_seu_gif.gif)
 
-## Trajetória Profissional 💼
-
-Embora tenha começado minha carreira fora da área de TI, sempre fui fascinado pela tecnologia e sua capacidade de transformar o mundo ao nosso redor. Após a formação, mantive atualizado e sempre aprendendo novos conceitos de programação, usando sempre como base a **linguagem PHP**.
-_E estou bem animado e ansioso agora que posso exercer na area!_
-
 ## Principais Habilidades 🛠️
 
 - **Linguagens de Programação:** PHP, JavaScript
@@ -31,6 +26,11 @@ Integração de um painel administrativo intuitivo para gerenciamento de produto
     - Utilizando o padrão MVC e o Composer para gerenciamento de dependências, o Catálogo Online oferece uma arquitetura sólida e extensível, permitindo escalabilidade e manutenção eficientes do código-fonte. 
     
 - [Controle - Ordem de Serviços - API REST](link_projeto_2): em desenvolvimento.
+
+  ## Trajetória Profissional 💼
+
+Embora tenha começado minha carreira fora da área de TI, sempre fui fascinado pela tecnologia e sua capacidade de transformar o mundo ao nosso redor. Após a formação, mantive atualizado e sempre aprendendo novos conceitos de programação, usando sempre como base a **linguagem PHP**.
+_E estou bem animado e ansioso agora que posso exercer na area!_
 
 ## Contato 📧
 
