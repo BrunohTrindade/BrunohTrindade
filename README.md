@@ -1,6 +1,4 @@
 #  Bem Vindo! 🚀  🙂
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=brunohtrindade&theme=react-dark)
-
 
 
 Olá! Meu nome é **Bruno Trindade**, um programador / desenvolvedor entusiasta apaixonado por programação, em especial **PHP**. Me formei em Análise e Desenvolvimento de Sistemas em 2018 e desde então tenho buscado constantemente aprimorar minhas habilidades e conhecimentos na área de tecnologia.
