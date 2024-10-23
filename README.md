@@ -1,5 +1,5 @@
 #  Bem Vindo! 🚀  🙂
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?BrunohTrindade&show_icons=true&theme=radical)
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?brunohtrindade&show_icons=true&theme=radical)
 
 
 Olá! Meu nome é **Bruno Trindade**, um programador / desenvolvedor entusiasta apaixonado por programação, em especial **PHP**. Me formei em Análise e Desenvolvimento de Sistemas em 2018 e desde então tenho buscado constantemente aprimorar minhas habilidades e conhecimentos na área de tecnologia.
