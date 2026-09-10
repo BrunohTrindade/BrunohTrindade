@@ -1,48 +1,110 @@
-# 👋 Bem-vindo!
+# 👋 Olá, eu sou Bruno Trindade
 
-Olá! Meu nome é **Bruno Trindade**, desenvolvedor com foco em **backend** e construção de sistemas web escaláveis.
+**Full Stack Developer | PHP | Laravel | REST APIs | Linux**
 
-Atuo principalmente com **PHP** e **Laravel**, desenvolvendo APIs REST, modelando banco de dados e estruturando regras de negócio com organização, clareza arquitetural e preocupação com manutenção a longo prazo.
-Tenho experiência na construção e manutenção de sistemas administrativos e aplicações com múltiplos níveis de acesso, sempre priorizando segurança, organização e qualidade de código.
-Também possuo **experiência com ambientes Linux e configuração de servidores**, incluindo preparação de ambiente, organização de projetos, manutenção e suporte à execução das aplicações.
+Sou desenvolvedor com foco em **backend**, principalmente com **PHP e Laravel**.
 
+Trabalho na construção e manutenção de sistemas web, APIs REST e integrações com serviços externos, buscando manter uma estrutura clara, código organizado e regras de negócio fáceis de entender e evoluir.
 
+Tenho também experiência com **ambientes Linux**, incluindo configuração, deploy, manutenção e suporte às aplicações em produção.
+
+Meu objetivo é continuar evoluindo principalmente em **arquitetura de software, qualidade de código, testes automatizados, APIs e desenvolvimento de sistemas que sejam simples de manter**.
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Conhecimentos
 
-### 💻 Backend
+### Backend
+
 - PHP
 - Laravel
-- API REST
+- APIs REST
+- Eloquent ORM
+- Laravel Sanctum
+- Jobs e Queues
+- Integrações com APIs externas
 
-### 🎨 Frontend
+### Frontend
+
 - JavaScript
-- Vue.js
 - HTML
 - CSS
 
-### 🗄️ Banco de Dados
-- MySQL
-- MSSQL
+### Banco de Dados
 
-### 🐧 Ambiente & Infraestrutura
-- Linux (instalação e configuração de ambiente)
-- Configuração de servidor local e ambiente de desenvolvimento
-- Gerenciamento e manutenção de projetos
-- Versionamento com Git
-- Organização de deploy e estrutura de aplicação
+- MySQL
+- Microsoft SQL Server
+
+### Infraestrutura
+
+- Linux
+- Nginx
+- Apache
+- Git
+- Configuração de ambientes
+- Deploy e manutenção de aplicações
+
+### 🤖 Inteligência Artificial
+
+Utilizo ferramentas de IA como parte do meu processo de desenvolvimento, principalmente para aumentar a produtividade e auxiliar na resolução de problemas.
+
+Entre os usos estão:
+
+- Análise e compreensão de código
+- Implementação e refatoração
+- Debugging
+- Criação e melhoria de testes
+- Documentação
+- Análise de possíveis soluções
+- Apoio na organização e evolução da arquitetura
+
+Ferramentas que utilizo:
+
+- Cursor
+- Claude
+- ChatGPT
+
+A IA faz parte do meu processo de desenvolvimento, mas as decisões técnicas, revisão e responsabilidade pelo código continuam sendo minhas.
 
 ---
 
+## 🚀 Meu Projeto
+
+### Imigraima
+
+Plataforma voltada à comunidade de imigrantes em Portugal.
+
+**Tecnologias principais:**
+
+`PHP` `Laravel` `MySQL` `JavaScript` `Linux`
+
+🌐 **imigraima.pt**
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura de software
+- Testes automatizados com PHPUnit
+- Design de APIs
+- DDD e organização de domínios
+- Boas práticas de desenvolvimento
+- Filas e processamento assíncrono
+- Observabilidade e manutenção de aplicações
+- Uso de IA no desenvolvimento de software
+
+---
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno_henriquet@live.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunohtrindade/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brunoh_trindade)
+📧 **Email:** bruno_henriquet@live.com
+
+💼 **LinkedIn:** linkedin.com/in/brunohtrindade
+
+📷 **Instagram:** instagram.com/brunoh_trindade
 
 ---
 
-Estou sempre aberto a novas oportunidades, desafios técnicos e projetos que envolvam construção de sistemas bem estruturados e escaláveis.
+Estou aberto a novas oportunidades, desafios técnicos e projetos onde possa contribuir principalmente com **backend, PHP, Laravel, APIs e integrações**.
+
+**PHP • Laravel • REST APIs • Linux • AI-Assisted Development**
